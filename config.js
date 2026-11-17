@@ -207,10 +207,10 @@
 
     invocation: { symbol: 'ganesha', religion: 'hindu', script: 'gujarati', custom: '' },
 
-    brideName: 'Monika',
+    brideName: 'ચી. Monika',
     groomName: 'Abhay',
     // Derived (see syncDerived) - kept flat for the platform's own EventData.
-    title: 'Abhay & Monika',
+    title: 'ચી. Abhay & ચી. Monika',
     hostNames: ['Abhay', 'Monica'],
 
     // The gate's card, under the invocation.
