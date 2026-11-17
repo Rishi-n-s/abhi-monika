@@ -238,7 +238,7 @@
       name: 'Kum. Monika Vaja',
       relLabel: 'Daughter of',
       parentA: 'Shri Natubhai Vaja',
-      parentB: 'Smt. Rita Vaja',
+      parentB: 'Rita Vaja',
       grandLabel: 'Granddaughter of',
       grandA: 'Late Shri Hari Prasad Verma',
       grandB: 'Late Smt. Shanti Devi Verma',
