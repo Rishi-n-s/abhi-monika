@@ -167,6 +167,25 @@ body::before {
 }
 
 /* --- hero ------------------------------------------------------------- */
+
+/* Custom large bold fonts for invitation text */
+.royale-card__mantra {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: var(--font-devanagari);
+}
+.royale-card__guest {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.royale-card__note {
+  font-size: 1.25rem;
+}
+.royale-couple__name {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
 /* Two scenes of the palace garden at dusk, one per kind of screen:
    - below 700px, media/garden_palace.mp4, moving (720x1280, near the phone's
      own shape), covered and centred, which keeps the pavilion and the water
@@ -4379,7 +4398,7 @@ body::before {
   font-weight: 800;
   color: var(--royale-crimson, #7f1038);
   text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
-}
+
 
   margin: 0;
   font-family: var(--font-names, "Cormorant Garamond", serif);

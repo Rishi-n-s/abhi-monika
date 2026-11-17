@@ -207,10 +207,10 @@
 
     invocation: { symbol: 'ganesha', religion: 'hindu', script: 'gujarati', custom: '' },
 
-    brideName: 'ચી. Monika',
+    brideName: 'Monika',
     groomName: 'Abhay',
     // Derived (see syncDerived) - kept flat for the platform's own EventData.
-    title: 'ચી. Abhay & ચી. Monika',
+    title: 'Abhay & Monika',,
     hostNames: ['Abhay', 'Monica'],
 
     // The gate's card, under the invocation.
@@ -225,7 +225,7 @@
     // off, so removing one is reversible.
     groomFamily: {
       enabled: true,
-      name: 'Chi. Abhay Solanki',
+      name: 'ચી. Abhay Solanki',
       relLabel: 'Son of',
       parentA: 'Shri Kantilalbhai Devji Solanki',
       parentB: 'Smt. Kusumben Kantibhai Solanki',
